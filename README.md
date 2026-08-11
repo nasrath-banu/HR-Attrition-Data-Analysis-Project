@@ -81,6 +81,10 @@ The full Power BI (.pbix) file isn't included in this repo due to its large size
 
 ---
 
+**Source:**
+ 
+  Kaggle - (https://www.kaggle.com/datasets/rohitgrewal/hr-data-mnc)
+
 ## 🙋 About Me
 
 Learning Data Analytics through hands-on projects. Currently building my portfolio in Excel and Power BI, and actively looking for entry-level opportunities in Data Analytics / Business Intelligence.
