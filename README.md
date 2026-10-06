@@ -72,7 +72,7 @@ Headcount Share % = DIVIDE([Total Employees], CALCULATE([Total Employees], ALL(H
 - Hiring trend by year and department-wise status breakdown
 - Slicers: Department, Status, Work_Mode
 
-![Page 1](images/page1_overview.png)
+![Page 1](Overview.png)
 
 ### Page 2 - Salary, Performance & Workforce
 - Average salary and headcount by department
@@ -80,13 +80,13 @@ Headcount Share % = DIVIDE([Total Employees], CALCULATE([Total Employees], ALL(H
 - Average salary by years of experience
 - Top 10 average salary by job title
 
-![Page 2](images/page2_salary_workforce.png)
+![Page 2](Salary_Workforce.png)
 
 ### Page 3 - Attrition Deep Dive
 - Department summary table: headcount, headcount share, attrition rate, average salary
 - Attrition rate by department and by work mode
 
-![Page 3](images/page3_deep_dive.png)
+![Page 3](Deep_Dive.png)
 
 ---
 
@@ -116,8 +116,9 @@ Headcount Share % = DIVIDE([Total Employees], CALCULATE([Total Employees], ALL(H
 | File | Description |
 |---|---|
 | `README.md` | Project documentation |
-| `images/` | Dashboard screenshots (3 pages) |
-| `pbix` | Full Power BI file |
+| `images` | Dashboard screenshots (3 pages) |
+
+The `pbix` file is not supported because of large size. I uploaded the Screenshots of the Dashboard
 
 ---
 
